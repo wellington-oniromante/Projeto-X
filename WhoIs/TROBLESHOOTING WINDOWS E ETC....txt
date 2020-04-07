@@ -1,0 +1,31 @@
+Acessar o Gerenciamento de Disco
+
+Diskmgmt.msc
+
+Entrar em sistema/ ARMAZENAMENTO e habilitar a função:
+SENSOR DE ARMAZENAMENTO.
+
+
+
+Manipular VHD
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd
+
+Ferramentas de Trobleshooting
+
+https://docs.microsoft.com/pt-br/sysinternals/
+
+Usar POWERSHELL ISE:
+
+pq a interface grafica facilita o uso e a adptação, aos comandos
+
+
+Comandos do Powershell para Hyper-v
+
+https://docs.microsoft.com/pt-br/powershell/module/hyper-v/?view=win10-ps
+
+
+https://supportvideos.ext.hp.com/portuguese/detail/video/1251301449001/atualizar-o-bios 
+Atualizar bios HP
+
+bcdedit / set hypervisorlaunchtype auto
